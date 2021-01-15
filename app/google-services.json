@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729276116411",
+    "project_id": "mapcurrentlocation-845a9",
+    "storage_bucket": "mapcurrentlocation-845a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729276116411:android:c0f87f82098d7a1401e89e",
+        "android_client_info": {
+          "package_name": "com.pramod.mapcurrentlocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729276116411-j9500rnbrpna31ee0u0kcoask4okdldk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqHh9J3rS22mtcuT7K1EH429qhrX4AZR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729276116411-j9500rnbrpna31ee0u0kcoask4okdldk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
